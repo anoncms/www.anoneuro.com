@@ -23,7 +23,7 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.kriptokuna.com/vijesti</loc>
+  <loc>https://www.kriptokuna.com/news</loc>
   <lastmod>2021-07-05T21:21:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -83,12 +83,12 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.kriptokuna.com/vijesti/ogranicili-smo-kriptokunu</loc>
+  <loc>https://www.kriptokuna.com/news/ogranicili-smo-kriptokunu</loc>
   <lastmod>2021-07-05T21:21:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.kriptokuna.com/vijesti/kriptokuna-trazi-bankare-testere-i-volontere</loc>
+  <loc>https://www.kriptokuna.com/news/kriptokuna-trazi-bankare-testere-i-volontere</loc>
   <lastmod>2021-07-05T21:21:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
