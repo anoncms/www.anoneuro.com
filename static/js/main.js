@@ -208,12 +208,12 @@ function calculateInterest() {
 	} else {
 		$("#calcMessage").fadeOut();
 
-		var percent = Math.pow(1.5, years);
+		var percent = Math.pow(1.25, years);
 
 		var total = amount * percent;
-		var monthly = total * 0.0343660831319166;
-		var smonthly = amount * 0.0343660831319166;
-		var sdaily = amount * 0.0011114805470662;
+		var monthly = total * 0.0187692651215061;
+		var smonthly = amount * 0.0187692651215061;
+		var sdaily = amount * 0.000611539109223;
 	
 		$("#total").val(total.toFixed(2));
 		$("#monthly").val(monthly.toFixed(2));
